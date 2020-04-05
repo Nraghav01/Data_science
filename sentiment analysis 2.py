@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Apr  4 20:54:36 2020
-
-@author: nandini raghav
-"""
-
 ##To build a model to accurately classify a piece of news as REAL or FAKE.
 import itertools
 import numpy as np
